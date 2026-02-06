@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.11",
   "notes": "",
-  "pub_date": "2026-02-06T21:42:16.571Z",
+  "pub_date": "2026-02-06T22:41:46.717Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/DreamHouseKSH/typora-feel-updates/releases/download/v0.1.9/Typora.Feel_0.1.9_x64_en-US.msi.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdGIvUXNjellFaVh1emJSVENQaWo0YWNoa28wS2lTQ1hDNTl0ay9DSTJWdkxiOUFkZFFLWjZWSlZtanlCWFg4Mm9IbnhJTXdEZFdwbm9YOUtzK1hpS2FNdjRNUjVPdGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDE0MTMyCWZpbGU6VHlwb3JhIEZlZWxfMC4xLjlfeDY0X2VuLVVTLm1zaS56aXAKZ2ltL2V2Z1YwK0xUbUpJbmJDSGsxbUNhQ0lwSU1qMU93OS90WFphcFJIazNwUUErNWlyOVB6YkNxZ3AzRDJ2VzZzS3ltajcyNjc1TzNKcDBYZnNiQUE9PQo="
+      "url": "https://github.com/DreamHouseKSH/typora-feel-updates/releases/download/v0.1.11/Typora.Feel_0.1.11_x64_en-US.msi.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdGIvUXNjellFaWVsdVBuUnJUSTZYQkJjKzRpb1VYZmtsL1grallQZzJsNXZkL2N1aUVKVlNaQ3Uxc1JiQjZYVTB1YlF4NFc1eFBFdUVvVUljcVNHY2hmKzFJeTZGOXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDE3NzAzCWZpbGU6VHlwb3JhIEZlZWxfMC4xLjExX3g2NF9lbi1VUy5tc2kuemlwClp6RnpsWXVtY2ppUTFmQzRCOUFOcndvNExGOUgxM1dHdUYrYnlFRjlJa0t0U1M2NFBuY3lnNEVYQWdsN0I4N1lHS3NOY2VLRkovbFVxKzZRZy94WUJ3PT0K"
     }
   }
 }
