@@ -1,0 +1,11 @@
+{
+  "version": "0.1.5",
+  "notes": "",
+  "pub_date": "2026-02-06T12:39:11.873Z",
+  "platforms": {
+    "linux-x86_64": {
+      "url": "https://github.com/DreamHouseKSH/typora-feel-updates/releases/download/v0.1.5/typora-feel_0.1.5_amd64.AppImage.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdGIvUXNjellFaWQwMUtUZlF0bGduamEwVGxrZzlJZjVmSTFNekNhWDZHdHFxT2xudDQ4Z28va0FrbnZQbXJodXlwanZXMmJXMjgwOGR4ejdKbzdsS3JaMmw1cEI3UlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzgxNTQ1CWZpbGU6dHlwb3JhLWZlZWxfMC4xLjVfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CkR0VHFycTRKRnpWcmZJWEp4eWtnV2hWS3E1NC9Sdm5La2xhbklML3VIQkRKT2krbmRBeU8rOU9mNkh3dnZFV2JWOTJROXRRL01SQlJQTDlkWmd2TEJnPT0K"
+    }
+  }
+}
