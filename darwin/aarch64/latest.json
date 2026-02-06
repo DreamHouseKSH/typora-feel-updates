@@ -1,0 +1,11 @@
+{
+  "version": "0.1.7",
+  "notes": "",
+  "pub_date": "2026-02-06T13:04:52.676Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/DreamHouseKSH/typora-feel-updates/releases/download/v0.1.7/Typora%20Feel.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdGIvUXNjellFaVRpUFpFeU9wU2tuM1ZkNzl4Z3QreUQ5WThVMm9QbDVPcjQ4ZGZBcjYza3dCMzdCREpEeVFJdEFpQmoyNm13Rm9zRzRRWkhhUlB4SWdkK2NrUm5NVFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzgzMDg5CWZpbGU6VHlwb3JhIEZlZWwuYXBwLnRhci5negpML3hCaEV1a1EvZjkxY1E3Um9UYzlEbzRCbDhzODYyd0xqRkNVTExVcklrQkpuek5JM2xxUFdSZ3pubkV4U1lxeHNXeU05N2NCdEtHTHM2M3lUZXREdz09Cg=="
+    }
+  }
+}
