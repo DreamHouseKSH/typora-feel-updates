@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11002",
+  "version": "0.1.11003",
   "notes": "",
-  "pub_date": "2026-02-07T18:58:12.568Z",
+  "pub_date": "2026-02-08T11:35:02.850Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/DreamHouseKSH/typora-feel-updates/releases/download/v0.1.11002/Typora.Feel.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdGIvUXNjellFaWR4ZlZjcnpJL2k5dVlSUHZ2S09tMVlwYzNWNVBlTkFOMnhzM20wRVV2cVYwbUJLaUI3MXgrbkt5OEE4bmNGNzlqMzZxdFJJVWF6UVhsK1dUZDhiL3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDkwNjg5CWZpbGU6VHlwb3JhIEZlZWwuYXBwLnRhci5negpUTjBiSFVJeWI0MC9CZlZVeXRYYUQ1OTQ1UWwzb1A0N3I5cHdQcFM2SEZ2TmgyRnoyZExmRVNBV3ZJNFVPNFpkQTBJcyt4ajBFampDa2h0RzAvTEtCdz09Cg=="
+      "url": "https://github.com/DreamHouseKSH/typora-feel-updates/releases/download/v0.1.11003/Typora.Feel.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdGIvUXNjellFaVZIcmFYZ3I5ejVZV3UxMGQzQTM1Q3piV0JidG9XOTlzbWFCZkM2ekRjbmxMQzlyaVd5ZlJyWFVEWWdFblI1MGtTZ3cwejEvbGVvQytLUm94Q0JmdUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTUwNDk5CWZpbGU6VHlwb3JhIEZlZWwuYXBwLnRhci5negpPRkVQRkxIaUd4NVFKbEVqRDRySlQ4aHZoQkZNdVFzRVlLQ1JpVUljcnpqZDg4Vk1YbW9rbWtmTHc4WFU2bTBlaFhpMVpYRjdoZUt3bHYwSk1QK1dEQT09Cg=="
     }
   }
 }
